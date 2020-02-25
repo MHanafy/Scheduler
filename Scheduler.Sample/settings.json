@@ -1,0 +1,8 @@
+﻿{
+	"SchedulerSettings": {
+		"InitialSleepTime": "500",
+		"MaxSleepTime": "300000",
+		"Concurrency": "2",
+		"ImmediateResume" :  "true" 
+	}
+}
